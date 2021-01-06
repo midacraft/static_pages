@@ -1,0 +1,2 @@
+# static_pages
+Twitterに書くくらいならGitに挙げろってくらい気軽にメモコミッティン
